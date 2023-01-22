@@ -1,0 +1,172 @@
+
+
+
+
+.navbar{
+  background-color: rgb(157, 157, 247);
+  display: flex;
+  width: 800px;
+  height: auto;
+  justify-content:space-evenly;
+  align-items: center;
+  margin: auto;
+  
+}
+
+div>img{
+  height: 40px;
+  width: 60px;
+}
+
+.searchbar{
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+
+.searchbar>input{
+  height: 30px;
+  width: 300px;
+  border: none;
+  outline: none;
+}
+#sbut{
+  background-color: white;
+  height: 30px;
+  border: none;
+  outline: none;
+}
+
+.logo{
+  display: grid;
+  
+  
+  color: rgb(7, 7, 7);
+}
+#hombut{
+  height: 30px;
+  width: 60px;
+  background-color: greenyellow;
+  color: rgb(44, 43, 43);
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+#addbut{
+  height: 30px;
+  width: 100px;
+  background-color: greenyellow;
+  color: rgb(44, 43, 43);
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+form>div{
+  height: 600px;
+  width: 500px;
+  background-color: aqua;
+  display: grid;
+  grid-template-columns: 100px 300px;
+  row-gap: 10px;
+  padding: 10px;
+  justify-content: center;
+  border: 2px solid black;
+}
+
+form>div>input{
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+form>label{
+  font-size: large;
+}
+
+.formbox{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+th,td{
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+
+
+table{
+  
+  max-width: 650px;
+  border-collapse: collapse;
+ 
+}
+
+#addbut2{
+  background-color: red;
+  display: flex;
+  position: relative;
+  left: 125px;
+  height: 30px;
+  
+}
+
+#upbut{
+  height: 30px;
+  background-color: red;
+}
+
+.updiv{
+  display: flex;
+  justify-content: center;
+  /* margin: auto; */
+}
+
+.table{
+  display: flex;
+  justify-content: center;
+}
+
+.searchdetails{
+ 
+  margin-left: 500px;
+  text-align: left;
+  margin-top: 50px;
+  
+ 
+}
+
+.sd>h1{
+  margin-left: 500px;
+  color: red;
+}
+
+#deletebut{
+  background-color: red;
+}
+
+#edit{
+  background-color: greenyellow;
+}
+
+.aboutable{
+  display: flex;
+  justify-content: center;
+}
+
+#navabout
+{
+  height: 30px;
+  width: 100px;
+  background-color: greenyellow;
+  color: rgb(44, 43, 43);
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+

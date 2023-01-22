@@ -1,0 +1,76 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "Name": "Sadashiv Kallimani",
+      "Gender": "Male",
+      "Age": 25,
+      "Contact_num": 8618600201,
+      "Room_num": 12,
+      "Rent": 7000
+    },
+    {
+      "id": 2,
+      "Name": "Mahadev Gunnale",
+      "Gender": "Male",
+      "Age": 23,
+      "Contact_num": 9393981241,
+      "Room_num": 12,
+      "Rent": 7000
+    },
+    {
+      "Name": "Lohit",
+      "Gender": "Male",
+      "Age": "23",
+      "Contact_num": "9740207830",
+      "Room_num": "12",
+      "Rent": "7500",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "Name": "Prabhugouda Biradar",
+      "Gender": "Male",
+      "Age": 24,
+      "Contact_num": 8073338487,
+      "Room_num": 12,
+      "Rent": 7000
+    },
+    {
+      "Name": "Varun",
+      "Gender": "Male",
+      "Age": "26",
+      "Contact_num": "8970603838",
+      "Room_num": "12",
+      "Rent": "7000",
+      "id": 6
+    },
+    {
+      "Name": "Rahul",
+      "Gender": "male",
+      "Age": "23",
+      "Contact_num": "123456789",
+      "Room_num": "3",
+      "Rent": "8497",
+      "id": 7
+    },
+    {
+      "Name": "Chetan Harival",
+      "Gender": "Male",
+      "Age": "24",
+      "Contact_num": "8722331103",
+      "Room_num": "5",
+      "Rent": "8500",
+      "id": 8
+    },
+    {
+      "Name": "Govinda",
+      "Gender": "Male",
+      "Age": "24",
+      "Contact_num": "9010814155",
+      "Room_num": "2",
+      "Rent": "8000",
+      "id": 9
+    }
+  ]
+}
